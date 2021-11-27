@@ -2,14 +2,13 @@
 #Laurelinda Gómez
 #25/11/2021
 #Ultimo proyecto... :)
+#main
 import pygame
 from pygame.locals import *
 from pygame import mixer
-
 from gl import Renderer, Model
 import glm
 import shaders
-
 deltaTime = 0.0
 
 # pygame
