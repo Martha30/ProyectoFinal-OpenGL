@@ -1,0 +1,2 @@
+# ProyectoFinal-OpenGL
+El objetivo de éste proyecto es demostrar los conocimientos adquiridos durante la segunda mitad del curso.  Deben entregar un programa que renderiza un modelo 3D. Deben utilizar OpenGL 3.30 o superior y renderizar utilizando el pipeline de shaders. Para cargar los modelos y para crear las matrices pueden utilizar librerías externas.   La nota máxima es de 100 puntos. Se entregarán los siguientes puntos por cada uno de los objetivos que se cumplan. Pueden escoger los objetivos que quieran. No hay puntos extra.
